@@ -1,0 +1,203 @@
+.dev_image img{
+    width:230px;
+    height: 225px;
+}
+
+.image_dev{
+    margin: auto;
+}
+.container .image_dev txt{
+    margin: auto;
+}
+.bg-primarys{
+    background-color: #125688;
+}
+
+.bg-texturer{
+    background:linear-gradient(-45deg,#FACC3B 33%,transparent 0),linear-gradient(-45deg,#125688 100%,transparent 0);
+}
+
+.icon-boxes{color:#fff;background-color:#36699A;
+    vertical-align:middle;border-radius:50px!important;
+    padding:12px;
+    display:inline-block;
+    width:60px;
+    height:60px}
+
+.fts{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text-primary{
+    color:#36699A!important
+}
+#download{
+    padding: 50px;
+    background-color: #F8BA34;
+}
+#team{
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+.bg-texture-collage{background:linear-gradient(-45deg,#125688 33%,transparent 0),linear-gradient(-45deg,#DD2C00 67%,transparent 0),linear-gradient(-45deg,#00695C 100%,transparent 0)}
+
+
+
+
+.card_s_text{
+    color:#36699A!important
+}
+
+.panel-footer{
+    height:100px;
+    background-color: chartreuse;
+}
+
+.app_logo{
+    padding-top: 0px;
+    margin: 0px;
+}
+
+.main_logo_page{
+    margin-top: 0px;
+    padding-top: 0px;
+    background: cyan;
+}
+.logo_image{
+    padding-bottom: 10px;
+}
+.main_title{
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+    font-family: 'Lato', sans-serif;
+    color: #FFF;
+    background: #322f30;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+p > a:hover{
+    color: #d9d9d9;
+    text-decoration:  underline;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:  1% 0 1% 0;
+}
+._12 {
+    font-size: 1.2em;
+}
+._14 {
+    font-size: 1.4em;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+.fa-rss {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-rss:hover {
+    background-color: #eb8231;
+}
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-youtube:hover {
+    background-color: #e64a41;
+}
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+.fa-google-plus {
+    padding:10px 9px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-google-plus:hover {
+    background-color: #e25714;
+}
