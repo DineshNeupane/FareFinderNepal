@@ -1,9 +1,4 @@
-/* 
- Created on : Jul 4, 2017, 12:43:10 AM
- Author     : Atta-Ur-Rehman Shah (http://attacomsian.com)
- */
 
-/*Adding onClick listener to the play store button*/
 
 $(".play_store").on('click', function(){
      window.location = "https://goo.gl/Fk6pRL";
