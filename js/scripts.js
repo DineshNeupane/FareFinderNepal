@@ -1,5 +1,3 @@
-
-
 $(".play_store").on('click', function(){
      window.location = "https://goo.gl/Fk6pRL";
 });
